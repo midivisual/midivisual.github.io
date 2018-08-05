@@ -1,7 +1,7 @@
--change background color
--multiple github pages - 3
+X-change background color
 -image hosting 
 -youtube links
 -file hosting and downloads
 -hyperlinks within github
+-multiple github pages - 3
  
