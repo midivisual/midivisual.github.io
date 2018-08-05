@@ -1,7 +1,8 @@
-X-change background color
--image hosting 
+X -change background color
+X -image hosting 
 -youtube links
 -file hosting and downloads
--hyperlinks within github
+-hyperlinks from page to page within github
 -multiple github pages - 3
+-midi visual opener
  
